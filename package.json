@@ -2,7 +2,7 @@
   "name": "foundation-sites-loader",
   "description": "foundation-sites package for webpack",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "loader": "index.loader.js",
   "keywords": [
     "foundation",
