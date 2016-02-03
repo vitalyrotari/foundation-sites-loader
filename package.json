@@ -10,7 +10,7 @@
     "sass"
   ],
   "author": {
-    "name": "Vitaly Rotari <cky.adc@gmail.com>",
+    "name": "Vitaly Rotari <cky.adc@gmail.com>"
   },
   "bugs": {
     "url": "https://github.com/vitalyrotari/foundation-sites-loader/issues"
@@ -22,7 +22,7 @@
     "url": "https://github.com/vitalyrotari/foundation-sites-loader.git"
   },
   "peerDependencies": {
-    "foundation-sites": "^6.1.2",
+    "foundation-sites": "*",
     "css-loader": "*",
     "sass-loader": "*",
     "style-loader": "*",
