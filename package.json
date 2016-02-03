@@ -1,0 +1,35 @@
+{
+  "name": "foundation-sites-loader",
+  "description": "foundation-sites package for webpack",
+  "main": "index.js",
+  "version": "1.0.0",
+  "loader": "index.loader.js",
+  "keywords": [
+    "foundation",
+    "webpack",
+    "sass"
+  ],
+  "author": {
+    "name": "Vitaly Rotari <cky.adc@gmail.com>",
+  },
+  "bugs": {
+    "url": "https://github.com/vitalyrotari/foundation-sites-loader/issues"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitalyrotari/foundation-sites-loader.git"
+  },
+  "peerDependencies": {
+    "foundation-sites": "^6.1.2",
+    "css-loader": "*",
+    "sass-loader": "*",
+    "style-loader": "*",
+    "url-loader": "*",
+    "file-loader": "*"
+  },
+  "scripts": {
+    "test": "echo 'Please see README.md for test instructions'; exit 1;"
+  }
+}
